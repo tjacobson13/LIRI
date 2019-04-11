@@ -1,0 +1,195 @@
+[2019-04-10T23:47:12.452] [INFO] logger - concert this
+[2019-04-10T23:47:12.664] [INFO] logger - Event #1 is happening in Rio De Janeiro at City of Rock on 09-27-2019 at 7:00 pm
+[2019-04-10T23:47:12.664] [INFO] logger - Event #2 is happening in Las Vegas at XS Nightclub on 05-18-2019 at 10:00 pm
+[2019-04-10T23:47:12.664] [INFO] logger - Event #3 is happening in Las Vegas at XS Nightclub on 05-04-2019 at 10:00 pm
+[2019-04-10T23:47:12.664] [INFO] logger - Event #4 is happening in Amsterdam at Ziggo Dome on 04-26-2019 at 6:30 pm
+[2019-04-10T23:47:12.664] [INFO] logger - Event #5 is happening in Amsterdam at Ziggo Dome on 04-25-2019 at 6:30 pm
+[2019-04-10T23:47:12.664] [INFO] logger - Event #6 is happening in Merksem at SPORTPALEIS on 04-19-2019 at 6:30 pm
+[2019-04-10T23:47:12.664] [INFO] logger - Event #7 is happening in Amsterdam at Ziggo Dome on 04-16-2019 at 6:30 pm
+[2019-04-10T23:47:12.664] [INFO] logger - Event #8 is happening in Amsterdam at Ziggo Dome on 04-15-2019 at 6:30 pm
+[2019-04-10T23:47:12.664] [INFO] logger - Event #9 is happening in Merksem at SPORTPALEIS on 04-13-2019 at 11:00 pm
+[2019-04-10T23:47:12.665] [INFO] logger - Event #10 is happening in London at The O2 on 04-11-2019 at 7:00 pm
+[2019-04-10T23:47:24.780] [INFO] logger - concert this
+[2019-04-10T23:47:24.958] [INFO] logger - Event #1 is happening in Rio De Janeiro at City of Rock on 09-27-2019 at 7:00 pm
+[2019-04-10T23:47:24.958] [INFO] logger - Event #2 is happening in Las Vegas at XS Nightclub on 05-18-2019 at 10:00 pm
+[2019-04-10T23:47:24.959] [INFO] logger - Event #3 is happening in Las Vegas at XS Nightclub on 05-04-2019 at 10:00 pm
+[2019-04-10T23:47:24.959] [INFO] logger - Event #4 is happening in Amsterdam at Ziggo Dome on 04-26-2019 at 6:30 pm
+[2019-04-10T23:47:24.959] [INFO] logger - Event #5 is happening in Amsterdam at Ziggo Dome on 04-25-2019 at 6:30 pm
+[2019-04-10T23:47:24.959] [INFO] logger - Event #6 is happening in Merksem at SPORTPALEIS on 04-19-2019 at 6:30 pm
+[2019-04-10T23:47:24.959] [INFO] logger - Event #7 is happening in Amsterdam at Ziggo Dome on 04-16-2019 at 6:30 pm
+[2019-04-10T23:47:24.959] [INFO] logger - Event #8 is happening in Amsterdam at Ziggo Dome on 04-15-2019 at 6:30 pm
+[2019-04-10T23:47:24.959] [INFO] logger - Event #9 is happening in Merksem at SPORTPALEIS on 04-13-2019 at 11:00 pm
+[2019-04-10T23:47:24.959] [INFO] logger - Event #10 is happening in London at The O2 on 04-11-2019 at 7:00 pm
+[2019-04-10T23:47:31.632] [INFO] logger - concert this
+[2019-04-10T23:47:31.832] [INFO] logger - Event #1 is happening in Rio De Janeiro at City of Rock on 09-27-2019 at 7:00 pm
+[2019-04-10T23:47:31.832] [INFO] logger - Event #2 is happening in Las Vegas at XS Nightclub on 05-18-2019 at 10:00 pm
+[2019-04-10T23:47:31.832] [INFO] logger - Event #3 is happening in Las Vegas at XS Nightclub on 05-04-2019 at 10:00 pm
+[2019-04-10T23:47:31.832] [INFO] logger - Event #4 is happening in Amsterdam at Ziggo Dome on 04-26-2019 at 6:30 pm
+[2019-04-10T23:47:31.832] [INFO] logger - Event #5 is happening in Amsterdam at Ziggo Dome on 04-25-2019 at 6:30 pm
+[2019-04-10T23:47:31.832] [INFO] logger - Event #6 is happening in Merksem at SPORTPALEIS on 04-19-2019 at 6:30 pm
+[2019-04-10T23:47:31.833] [INFO] logger - Event #7 is happening in Amsterdam at Ziggo Dome on 04-16-2019 at 6:30 pm
+[2019-04-10T23:47:31.833] [INFO] logger - Event #8 is happening in Amsterdam at Ziggo Dome on 04-15-2019 at 6:30 pm
+[2019-04-10T23:47:31.833] [INFO] logger - Event #9 is happening in Merksem at SPORTPALEIS on 04-13-2019 at 11:00 pm
+[2019-04-10T23:47:31.833] [INFO] logger - Event #10 is happening in London at The O2 on 04-11-2019 at 7:00 pm
+[2019-04-10T23:47:43.434] [INFO] logger - concert this
+[2019-04-10T23:47:43.672] [INFO] logger - Event #1 is happening in Rio De Janeiro at City of Rock on 09-27-2019 at 7:00 pm
+[2019-04-10T23:47:43.672] [INFO] logger - Event #2 is happening in Las Vegas at XS Nightclub on 05-18-2019 at 10:00 pm
+[2019-04-10T23:47:43.672] [INFO] logger - Event #3 is happening in Las Vegas at XS Nightclub on 05-04-2019 at 10:00 pm
+[2019-04-10T23:47:43.673] [INFO] logger - Event #4 is happening in Amsterdam at Ziggo Dome on 04-26-2019 at 6:30 pm
+[2019-04-10T23:47:43.673] [INFO] logger - Event #5 is happening in Amsterdam at Ziggo Dome on 04-25-2019 at 6:30 pm
+[2019-04-10T23:47:43.673] [INFO] logger - Event #6 is happening in Merksem at SPORTPALEIS on 04-19-2019 at 6:30 pm
+[2019-04-10T23:47:43.673] [INFO] logger - Event #7 is happening in Amsterdam at Ziggo Dome on 04-16-2019 at 6:30 pm
+[2019-04-10T23:47:43.673] [INFO] logger - Event #8 is happening in Amsterdam at Ziggo Dome on 04-15-2019 at 6:30 pm
+[2019-04-10T23:47:43.673] [INFO] logger - Event #9 is happening in Merksem at SPORTPALEIS on 04-13-2019 at 11:00 pm
+[2019-04-10T23:47:43.673] [INFO] logger - Event #10 is happening in London at The O2 on 04-11-2019 at 7:00 pm
+[2019-04-10T23:47:45.697] [INFO] logger - concert this
+[2019-04-10T23:47:45.905] [INFO] logger - Event #1 is happening in Rio De Janeiro at City of Rock on 09-27-2019 at 7:00 pm
+[2019-04-10T23:47:45.905] [INFO] logger - Event #2 is happening in Las Vegas at XS Nightclub on 05-18-2019 at 10:00 pm
+[2019-04-10T23:47:45.905] [INFO] logger - Event #3 is happening in Las Vegas at XS Nightclub on 05-04-2019 at 10:00 pm
+[2019-04-10T23:47:45.905] [INFO] logger - Event #4 is happening in Amsterdam at Ziggo Dome on 04-26-2019 at 6:30 pm
+[2019-04-10T23:47:45.905] [INFO] logger - Event #5 is happening in Amsterdam at Ziggo Dome on 04-25-2019 at 6:30 pm
+[2019-04-10T23:47:45.906] [INFO] logger - Event #6 is happening in Merksem at SPORTPALEIS on 04-19-2019 at 6:30 pm
+[2019-04-10T23:47:45.906] [INFO] logger - Event #7 is happening in Amsterdam at Ziggo Dome on 04-16-2019 at 6:30 pm
+[2019-04-10T23:47:45.906] [INFO] logger - Event #8 is happening in Amsterdam at Ziggo Dome on 04-15-2019 at 6:30 pm
+[2019-04-10T23:47:45.906] [INFO] logger - Event #9 is happening in Merksem at SPORTPALEIS on 04-13-2019 at 11:00 pm
+[2019-04-10T23:47:45.906] [INFO] logger - Event #10 is happening in London at The O2 on 04-11-2019 at 7:00 pm
+[2019-04-10T23:47:48.588] [INFO] logger - concert this
+[2019-04-10T23:47:48.763] [INFO] logger - Event #1 is happening in Rio De Janeiro at City of Rock on 09-27-2019 at 7:00 pm
+[2019-04-10T23:47:48.763] [INFO] logger - Event #2 is happening in Las Vegas at XS Nightclub on 05-18-2019 at 10:00 pm
+[2019-04-10T23:47:48.763] [INFO] logger - Event #3 is happening in Las Vegas at XS Nightclub on 05-04-2019 at 10:00 pm
+[2019-04-10T23:47:48.763] [INFO] logger - Event #4 is happening in Amsterdam at Ziggo Dome on 04-26-2019 at 6:30 pm
+[2019-04-10T23:47:48.763] [INFO] logger - Event #5 is happening in Amsterdam at Ziggo Dome on 04-25-2019 at 6:30 pm
+[2019-04-10T23:47:48.763] [INFO] logger - Event #6 is happening in Merksem at SPORTPALEIS on 04-19-2019 at 6:30 pm
+[2019-04-10T23:47:48.764] [INFO] logger - Event #7 is happening in Amsterdam at Ziggo Dome on 04-16-2019 at 6:30 pm
+[2019-04-10T23:47:48.764] [INFO] logger - Event #8 is happening in Amsterdam at Ziggo Dome on 04-15-2019 at 6:30 pm
+[2019-04-10T23:47:48.764] [INFO] logger - Event #9 is happening in Merksem at SPORTPALEIS on 04-13-2019 at 11:00 pm
+[2019-04-10T23:47:48.764] [INFO] logger - Event #10 is happening in London at The O2 on 04-11-2019 at 7:00 pm
+[2019-04-10T23:47:53.576] [INFO] logger - concert this
+[2019-04-10T23:47:53.754] [INFO] logger - Event #1 is happening in Rio De Janeiro at City of Rock on 09-27-2019 at 7:00 pm
+[2019-04-10T23:47:53.754] [INFO] logger - Event #2 is happening in Las Vegas at XS Nightclub on 05-18-2019 at 10:00 pm
+[2019-04-10T23:47:53.754] [INFO] logger - Event #3 is happening in Las Vegas at XS Nightclub on 05-04-2019 at 10:00 pm
+[2019-04-10T23:47:53.754] [INFO] logger - Event #4 is happening in Amsterdam at Ziggo Dome on 04-26-2019 at 6:30 pm
+[2019-04-10T23:47:53.754] [INFO] logger - Event #5 is happening in Amsterdam at Ziggo Dome on 04-25-2019 at 6:30 pm
+[2019-04-10T23:47:53.754] [INFO] logger - Event #6 is happening in Merksem at SPORTPALEIS on 04-19-2019 at 6:30 pm
+[2019-04-10T23:47:53.755] [INFO] logger - Event #7 is happening in Amsterdam at Ziggo Dome on 04-16-2019 at 6:30 pm
+[2019-04-10T23:47:53.755] [INFO] logger - Event #8 is happening in Amsterdam at Ziggo Dome on 04-15-2019 at 6:30 pm
+[2019-04-10T23:47:53.755] [INFO] logger - Event #9 is happening in Merksem at SPORTPALEIS on 04-13-2019 at 11:00 pm
+[2019-04-10T23:47:53.755] [INFO] logger - Event #10 is happening in London at The O2 on 04-11-2019 at 7:00 pm
+[2019-04-10T23:48:12.230] [INFO] logger - One Dance
+[2019-04-10T23:48:12.231] [INFO] logger - null
+[2019-04-10T23:48:12.231] [INFO] logger - Drake
+[2019-04-10T23:48:12.232] [INFO] logger - Views
+[2019-04-10T23:49:24.707] [INFO] logger - concert this
+[2019-04-10T23:49:24.901] [INFO] logger - Event #1 is happening in Rio De Janeiro at City of Rock on 09-27-2019 at 7:00 pm
+[2019-04-10T23:49:24.901] [INFO] logger - Event #2 is happening in Las Vegas at XS Nightclub on 05-18-2019 at 10:00 pm
+[2019-04-10T23:49:24.901] [INFO] logger - Event #3 is happening in Las Vegas at XS Nightclub on 05-04-2019 at 10:00 pm
+[2019-04-10T23:49:24.901] [INFO] logger - Event #4 is happening in Amsterdam at Ziggo Dome on 04-26-2019 at 6:30 pm
+[2019-04-10T23:49:24.901] [INFO] logger - Event #5 is happening in Amsterdam at Ziggo Dome on 04-25-2019 at 6:30 pm
+[2019-04-10T23:49:24.901] [INFO] logger - Event #6 is happening in Merksem at SPORTPALEIS on 04-19-2019 at 6:30 pm
+[2019-04-10T23:49:24.901] [INFO] logger - Event #7 is happening in Amsterdam at Ziggo Dome on 04-16-2019 at 6:30 pm
+[2019-04-10T23:49:24.901] [INFO] logger - Event #8 is happening in Amsterdam at Ziggo Dome on 04-15-2019 at 6:30 pm
+[2019-04-10T23:49:24.901] [INFO] logger - Event #9 is happening in Merksem at SPORTPALEIS on 04-13-2019 at 11:00 pm
+[2019-04-10T23:49:24.902] [INFO] logger - Event #10 is happening in London at The O2 on 04-11-2019 at 7:00 pm
+[2019-04-10T23:50:03.206] [INFO] logger - concert this
+[2019-04-10T23:50:03.372] [INFO] logger - Event #1 is happening in Rio De Janeiro at City of Rock on 09-27-2019 at 7:00 pm
+[2019-04-10T23:50:03.372] [INFO] logger - Event #2 is happening in Las Vegas at XS Nightclub on 05-18-2019 at 10:00 pm
+[2019-04-10T23:50:03.373] [INFO] logger - Event #3 is happening in Las Vegas at XS Nightclub on 05-04-2019 at 10:00 pm
+[2019-04-10T23:50:03.373] [INFO] logger - Event #4 is happening in Amsterdam at Ziggo Dome on 04-26-2019 at 6:30 pm
+[2019-04-10T23:50:03.373] [INFO] logger - Event #5 is happening in Amsterdam at Ziggo Dome on 04-25-2019 at 6:30 pm
+[2019-04-10T23:50:03.373] [INFO] logger - Event #6 is happening in Merksem at SPORTPALEIS on 04-19-2019 at 6:30 pm
+[2019-04-10T23:50:03.373] [INFO] logger - Event #7 is happening in Amsterdam at Ziggo Dome on 04-16-2019 at 6:30 pm
+[2019-04-10T23:50:03.373] [INFO] logger - Event #8 is happening in Amsterdam at Ziggo Dome on 04-15-2019 at 6:30 pm
+[2019-04-10T23:50:03.373] [INFO] logger - Event #9 is happening in Merksem at SPORTPALEIS on 04-13-2019 at 11:00 pm
+[2019-04-10T23:50:03.373] [INFO] logger - Event #10 is happening in London at The O2 on 04-11-2019 at 7:00 pm
+[2019-04-10T23:50:17.342] [INFO] logger - One Dance
+[2019-04-10T23:50:17.343] [INFO] logger - null
+[2019-04-10T23:50:17.343] [INFO] logger - Drake
+[2019-04-10T23:50:17.343] [INFO] logger - Views
+[2019-04-10T23:50:42.483] [INFO] logger - movie-this
+[2019-04-10T23:50:42.676] [INFO] logger - { Title: 'Superman',
+  Year: '1978',
+  Rated: 'PG',
+  Released: '15 Dec 1978',
+  Runtime: '143 min',
+  Genre: 'Action, Adventure, Drama, Sci-Fi',
+  Director: 'Richard Donner',
+  Writer:
+   'Jerry Siegel (character created by: Superman), Joe Shuster (character created by: Superman), Mario Puzo (story), Mario Puzo (screenplay), David Newman (screenplay), Leslie Newman (screenplay), Robert Benton (screenplay)',
+  Actors: 'Marlon Brando, Gene Hackman, Christopher Reeve, Ned Beatty',
+  Plot:
+   "An alien orphan is sent from his dying planet to Earth, where he grows up to become his adoptive home's first and greatest superhero.",
+  Language: 'English',
+  Country: 'USA, UK, Switzerland, Canada, Panama',
+  Awards: 'Nominated for 3 Oscars. Another 17 wins & 18 nominations.',
+  Poster:
+   'https://m.media-amazon.com/images/M/MV5BMzA0YWMwMTUtMTVhNC00NjRkLWE2ZTgtOWEzNjJhYzNiMTlkXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg',
+  Ratings:
+   [ { Source: 'Internet Movie Database', Value: '7.3/10' },
+     { Source: 'Rotten Tomatoes', Value: '94%' },
+     { Source: 'Metacritic', Value: '80/100' } ],
+  Metascore: '80',
+  imdbRating: '7.3',
+  imdbVotes: '146,268',
+  imdbID: 'tt0078346',
+  Type: 'movie',
+  DVD: '01 May 2001',
+  BoxOffice: 'N/A',
+  Production: 'Warner Bros. Pictures',
+  Website: 'http://www2.warnerbros.com/superman/home.html',
+  Response: 'True' }
+[2019-04-10T23:50:42.676] [INFO] logger - Superman
+[2019-04-10T23:50:42.676] [INFO] logger - 1978
+[2019-04-10T23:50:42.676] [INFO] logger - imdb rating:7.3/10
+[2019-04-10T23:50:42.676] [INFO] logger - rotten tomatoes rating:94%
+[2019-04-10T23:50:42.676] [INFO] logger - USA, UK, Switzerland, Canada, Panama
+[2019-04-10T23:50:42.677] [INFO] logger - English
+[2019-04-10T23:50:42.677] [INFO] logger - An alien orphan is sent from his dying planet to Earth, where he grows up to become his adoptive home's first and greatest superhero.
+[2019-04-10T23:50:42.677] [INFO] logger - Marlon Brando, Gene Hackman, Christopher Reeve, Ned Beatty
+[2019-04-10T23:51:05.479] [INFO] logger - concert this
+[2019-04-10T23:51:05.813] [INFO] logger - Event #1 is happening in Rio De Janeiro at City of Rock on 09-27-2019 at 7:00 pm
+[2019-04-10T23:51:05.813] [INFO] logger - Event #2 is happening in Las Vegas at XS Nightclub on 05-18-2019 at 10:00 pm
+[2019-04-10T23:51:05.813] [INFO] logger - Event #3 is happening in Las Vegas at XS Nightclub on 05-04-2019 at 10:00 pm
+[2019-04-10T23:51:05.813] [INFO] logger - Event #4 is happening in Amsterdam at Ziggo Dome on 04-26-2019 at 6:30 pm
+[2019-04-10T23:51:05.814] [INFO] logger - Event #5 is happening in Amsterdam at Ziggo Dome on 04-25-2019 at 6:30 pm
+[2019-04-10T23:51:05.814] [INFO] logger - Event #6 is happening in Merksem at SPORTPALEIS on 04-19-2019 at 6:30 pm
+[2019-04-10T23:51:05.814] [INFO] logger - Event #7 is happening in Amsterdam at Ziggo Dome on 04-16-2019 at 6:30 pm
+[2019-04-10T23:51:05.814] [INFO] logger - Event #8 is happening in Amsterdam at Ziggo Dome on 04-15-2019 at 6:30 pm
+[2019-04-10T23:51:05.814] [INFO] logger - Event #9 is happening in Merksem at SPORTPALEIS on 04-13-2019 at 11:00 pm
+[2019-04-10T23:51:05.814] [INFO] logger - Event #10 is happening in London at The O2 on 04-11-2019 at 7:00 pm
+[2019-04-10T23:51:06.502] [INFO] logger - movie-this
+[2019-04-10T23:51:06.642] [INFO] logger - Superman
+[2019-04-10T23:51:06.643] [INFO] logger - 1978
+[2019-04-10T23:51:06.643] [INFO] logger - imdb rating:7.3/10
+[2019-04-10T23:51:06.643] [INFO] logger - rotten tomatoes rating:94%
+[2019-04-10T23:51:06.643] [INFO] logger - USA, UK, Switzerland, Canada, Panama
+[2019-04-10T23:51:06.643] [INFO] logger - English
+[2019-04-10T23:51:06.643] [INFO] logger - An alien orphan is sent from his dying planet to Earth, where he grows up to become his adoptive home's first and greatest superhero.
+[2019-04-10T23:51:06.643] [INFO] logger - Marlon Brando, Gene Hackman, Christopher Reeve, Ned Beatty
+[2019-04-10T23:51:39.848] [INFO] logger - do-what-it-says
+[2019-04-10T23:51:39.851] [INFO] logger - null
+[2019-04-10T23:51:40.368] [INFO] logger - I Want It That Way
+[2019-04-10T23:51:40.368] [INFO] logger - https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=a50d1d5b97f44d30bc1749e9afe3f65e
+[2019-04-10T23:51:40.368] [INFO] logger - Backstreet Boys
+[2019-04-10T23:51:40.368] [INFO] logger - Millennium
+[2019-04-10T23:52:27.602] [INFO] logger - concert this
+[2019-04-10T23:52:27.827] [INFO] logger - Event #1 is happening in Rio De Janeiro at City of Rock on 09-27-2019 at 7:00 pm
+[2019-04-10T23:52:27.827] [INFO] logger - Event #2 is happening in Las Vegas at XS Nightclub on 05-18-2019 at 10:00 pm
+[2019-04-10T23:52:27.827] [INFO] logger - Event #3 is happening in Las Vegas at XS Nightclub on 05-04-2019 at 10:00 pm
+[2019-04-10T23:52:27.827] [INFO] logger - Event #4 is happening in Amsterdam at Ziggo Dome on 04-26-2019 at 6:30 pm
+[2019-04-10T23:52:27.828] [INFO] logger - Event #5 is happening in Amsterdam at Ziggo Dome on 04-25-2019 at 6:30 pm
+[2019-04-10T23:52:27.828] [INFO] logger - Event #6 is happening in Merksem at SPORTPALEIS on 04-19-2019 at 6:30 pm
+[2019-04-10T23:52:27.828] [INFO] logger - Event #7 is happening in Amsterdam at Ziggo Dome on 04-16-2019 at 6:30 pm
+[2019-04-10T23:52:27.828] [INFO] logger - Event #8 is happening in Amsterdam at Ziggo Dome on 04-15-2019 at 6:30 pm
+[2019-04-10T23:52:27.828] [INFO] logger - Event #9 is happening in Merksem at SPORTPALEIS on 04-13-2019 at 11:00 pm
+[2019-04-10T23:52:27.828] [INFO] logger - Event #10 is happening in London at The O2 on 04-11-2019 at 7:00 pm
+[2019-04-11T00:00:01.120] [INFO] logger - concert this
+[2019-04-11T00:00:01.405] [INFO] logger - Event #1 is happening in Rio De Janeiro at City of Rock on 09-27-2019 at 7:00 pm
+[2019-04-11T00:00:01.405] [INFO] logger - Event #2 is happening in Las Vegas at XS Nightclub on 05-18-2019 at 10:00 pm
+[2019-04-11T00:00:01.405] [INFO] logger - Event #3 is happening in Las Vegas at XS Nightclub on 05-04-2019 at 10:00 pm
+[2019-04-11T00:00:01.405] [INFO] logger - Event #4 is happening in Amsterdam at Ziggo Dome on 04-26-2019 at 6:30 pm
+[2019-04-11T00:00:01.405] [INFO] logger - Event #5 is happening in Amsterdam at Ziggo Dome on 04-25-2019 at 6:30 pm
+[2019-04-11T00:00:01.405] [INFO] logger - Event #6 is happening in Merksem at SPORTPALEIS on 04-19-2019 at 6:30 pm
+[2019-04-11T00:00:01.405] [INFO] logger - Event #7 is happening in Amsterdam at Ziggo Dome on 04-16-2019 at 6:30 pm
+[2019-04-11T00:00:01.406] [INFO] logger - Event #8 is happening in Amsterdam at Ziggo Dome on 04-15-2019 at 6:30 pm
+[2019-04-11T00:00:01.406] [INFO] logger - Event #9 is happening in Merksem at SPORTPALEIS on 04-13-2019 at 11:00 pm
+[2019-04-11T00:00:01.406] [INFO] logger - Event #10 is happening in London at The O2 on 04-11-2019 at 7:00 pm
