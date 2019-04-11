@@ -78,14 +78,14 @@ const movieThisMovie = () => {
   log('movie-this');
   axios.get("http://www.omdbapi.com/?t=" + input + "&y=&plot=short&apikey=trilogy")
     .then(function (response) {
-      log(response.data.Title);
-      log(response.data.Year);
-      log('imdb rating:' + response.data.Ratings[0].Value);
-      log('rotten tomatoes rating:' + response.data.Ratings[1].Value);
-      log(response.data.Country);
-      log(response.data.Language);
-      log(response.data.Plot);
-      log(response.data.Actors);
+      log("Movie Title : " + response.data.Title);
+      log("Release Year : " + response.data.Year);
+      log('IMDB Rating : ' + response.data.Ratings[0].Value);
+      log('Rotten Tomatoes Rating: ' + response.data.Ratings[1].Value);
+      log('Country: ' + response.data.Country);
+      log('Language : ' + response.data.Language);
+      log('Synopsis : ' + response.data.Plot);
+      log('Actors : ' + response.data.Actors);
 
     })
     .catch(function (error) {
@@ -107,10 +107,10 @@ const spotifyThisSong = (songName) => {
       return item.popularity;
     })
 
-    log(maxItem.name);
-    log(maxItem.preview_url);
-    log(maxItem.album.artists[0].name)
-    log(maxItem.album.name);
+    log('Song Name : ' + maxItem.name);
+    log('Artist : ' + maxItem.album.artists[0].name)
+    log('Album Name : ' + maxItem.album.name);
+    log('Preview Link : ' + maxItem.preview_url);
   });
 }
 

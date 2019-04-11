@@ -17,3 +17,8 @@
 
 ### do-what-it-says : takes the input from random.txt and then preforms spotify-this-song on it
 #### do-what-it-says      (and change logs.txt file if you want to change it)
+
+
+
+# Shown in action here : https://i.imgur.com/ODKMR77.gifv
+# also liri.gif in this directory.
